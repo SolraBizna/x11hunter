@@ -15,7 +15,7 @@ If you have to ask the question, you probably don't need this. It's not a thing 
 [Install Rust](https://rust-lang.org/learn/get-started/). then run:
 
 ```sh
-git clone https://github.com/SolraBizna/x11hunter && cargo install --path=x11hunter`
+git clone https://github.com/SolraBizna/x11hunter && cargo install --path=x11hunter
 ```
 
 Now that `x11hunter` is installed, you can run a program like this:
