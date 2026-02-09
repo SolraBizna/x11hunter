@@ -1,0 +1,9 @@
+[package]
+name = "x11hunter"
+version = "0.5.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.57", features = ["derive", "wrap_help"] }
+nix = { version = "0.31.1", features = ["dir", "fs", "user"] }
+rand = "0.10.0"
